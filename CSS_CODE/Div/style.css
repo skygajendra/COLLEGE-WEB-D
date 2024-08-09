@@ -1,0 +1,53 @@
+.A{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: aqua;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.B{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    color: black;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+    /* visibility: hidden;    block is hidden*/  
+    /* display: none;     block is not visibal*/
+}
+.C{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: aqua;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+.D{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    color: aqua;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}
+.DIV{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: aqua;
+    border-radius: 15px;
+    text-align: center;
+    font-family: monospace;
+    font-size: 20px;
+}

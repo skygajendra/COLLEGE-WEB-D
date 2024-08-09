@@ -1,0 +1,32 @@
+h1::first-letter{
+    color: aqua;
+    background-color: red;
+    font-size: 100px;
+}
+p::first-letter{
+    color: yellow;
+    font-size: 100px;
+    background-color: blue;
+}
+a:hover{
+    background-color: blueviolet;
+    text-decoration: none;
+}
+ /* ul,li{
+    list-style: none;
+    text-align: center;
+ } */
+
+ul li:last-child{
+    background-color: green;
+    /* text-align: center; */
+}
+
+ul li:first-child{
+    background-color: purple;
+    /* text-align: center; */
+}
+
+hr{
+    height: 25px;border: 15px; box-shadow: inset 0 12px 12px -12px black;
+}

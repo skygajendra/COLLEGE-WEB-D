@@ -1,0 +1,21 @@
+h1{
+    color: green;
+    text-align: center;
+    background-color: aqua;
+}
+
+/* ---id selector--- */
+
+#gla{
+    color: red;
+    background-color: yellow;
+    text-align: end;
+}
+
+/* --class selectors--- */
+
+.mathura{
+    color: yellow;
+    background-color: red;
+    text-align: start;
+}

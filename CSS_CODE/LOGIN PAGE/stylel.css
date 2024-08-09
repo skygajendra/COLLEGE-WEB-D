@@ -1,0 +1,42 @@
+.A{
+    height: 100%;
+    text-align: center;
+    color: black;
+    font-size: x-large;
+    background-color: rebeccapurple;
+    border-radius: 15px;
+    border: solid black;
+}
+
+ul,li,a{
+    display: inline;
+    text-decoration: none;
+}
+
+
+.B{
+    height: 100;
+    background-color: aqua;
+    border: rgb(39, 10, 223);
+    border-radius: 19px;
+}
+
+.b,#ab{
+    border: solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+li{
+    width: 29px;
+    height: 30px;
+    background-color: aqua;
+    border: solid black;
+    border-radius: 10px;
+}
+
+.C{
+    background-color: brown;
+    text-align: center;
+    margin: 20px;
+    padding-top: 4%;
+}

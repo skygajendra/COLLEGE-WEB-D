@@ -1,0 +1,24 @@
+li{
+    list-style-image: url()
+}
+
+p.uppercase {
+    text-transform: uppercase;
+}
+
+p.lowercase{
+    text-transform: lowercase;
+}
+
+p{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 40px;
+    text-decoration-line: overline underline;
+}
+
+p.mix{
+    border-style: dotted;
+    text-align: center;
+}
